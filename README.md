@@ -1,4 +1,6 @@
 # 3c   CREATION FOR FILE TRANSFER USING TCP SOCKETS
+## DEVELOPED BY : NITHYA D
+## REG.NO : 212223240110
 
 ## AIM :
 To write a python program for creating File Transfer using TCP Sockets Links.
@@ -11,6 +13,9 @@ To write a python program for creating File Transfer using TCP Sockets Links.
 ## PROGRAM :
 ### CLIENT :
 ```
+Developed by : NITHYA D
+Reg.no : 212223240110
+
 import socket
 
 s = socket.socket()
@@ -32,6 +37,9 @@ print('connection closed')
 ```
 ### SERVER :
 ```
+Developed by : NITHYA D
+Reg.no : 212223240110
+
 import socket 
 
 port = 60000 
